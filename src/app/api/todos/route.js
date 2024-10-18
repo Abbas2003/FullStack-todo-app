@@ -54,7 +54,7 @@ export async function POST(req) {
 
     return Response.json({
         data: [],
-        msg: "Todos Added Successfully"
+        msg: "Todo Added Successfully"
     })
 }
 
